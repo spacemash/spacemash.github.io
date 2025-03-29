@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17e5fc1e.css",
+    "main.js": "/static/js/main.ff0184aa.js",
+    "static/js/360.73de8c46.chunk.js": "/static/js/360.73de8c46.chunk.js",
+    "static/js/375.268e0d38.chunk.js": "/static/js/375.268e0d38.chunk.js",
+    "static/js/231.67e97ebe.chunk.js": "/static/js/231.67e97ebe.chunk.js",
+    "static/js/852.5df90efe.chunk.js": "/static/js/852.5df90efe.chunk.js",
+    "static/js/651.7f4a46c4.chunk.js": "/static/js/651.7f4a46c4.chunk.js",
+    "static/js/475.9aa3227b.chunk.js": "/static/js/475.9aa3227b.chunk.js",
+    "static/js/912.e9e146a4.chunk.js": "/static/js/912.e9e146a4.chunk.js",
+    "static/js/562.e01f0592.chunk.js": "/static/js/562.e01f0592.chunk.js",
+    "static/js/999.b627cdec.chunk.js": "/static/js/999.b627cdec.chunk.js",
+    "static/js/558.ca0d09b0.chunk.js": "/static/js/558.ca0d09b0.chunk.js",
+    "static/media/home-decor-3.jpg": "/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
+    "static/media/home-decor-2.jpg": "/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
+    "static/media/home-decor-1.jpg": "/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
+    "static/media/curved0.jpg": "/static/media/curved0.d146ec6e9401aa9d52c5.jpg",
+    "static/media/curved8.jpg": "/static/media/curved8.80b992f8e68f16e9d6e4.jpg",
+    "static/media/rocket-dark.png": "/static/media/rocket-dark.e6a891bb832015072d1b.png",
+    "static/media/pattern-lines.svg": "/static/media/pattern-lines.ba7ee10aea2cd3fc1db7fd985469a1e8.svg",
+    "static/media/white-curved.jpeg": "/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
+    "static/media/team-1.jpg": "/static/media/team-1.c821a2730a9c8e3f68eb.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.b75146da5bfdf9d8ae61.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.a1e1c29f1b839ddae393.jpg",
+    "static/media/bruce-mars.jpg": "/static/media/bruce-mars.45f6477957606abd2f24.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.e725aef8c892cb21f262.jpg",
+    "static/media/logo-slack.svg": "/static/media/logo-slack.d8feb9c5b2a92c377e8c5b7a10faabc9.svg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
+    "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
+    "static/media/logo-asana.svg": "/static/media/logo-asana.5c9ced4f9006cfb2d4c10f905cf6d310.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.17e5fc1e.css",
+    "static/js/main.ff0184aa.js"
+  ]
+}
